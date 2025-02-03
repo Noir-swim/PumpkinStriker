@@ -57,5 +57,5 @@
 
 プロジェクトの詳細やビジュアルな説明は、以下のPDFポスターをご参照ください。
 
-[プロジェクトポスター (PDF)](PumpkinStrikerPoster.pdf)
+[プロジェクトポスター (jpeg)](PumpkinStrikerPoster.jpeg)
 ---
