@@ -52,5 +52,6 @@
 
 ## ゲーム開発工程の様子
 プロジェクトの詳細やビジュアルなどの説明は、以下のURLをご参照ください。
+
 https://mcm-www.jwu.ac.jp/~physm/buturi24/game/index.html
 ---
